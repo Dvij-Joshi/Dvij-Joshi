@@ -1,6 +1,6 @@
 # Hi, I'm Dvij Joshi
 
-I'm a second-year Computer Science & Engineering student at ITM SLS Baroda, deeply interested in AI and machine learning. I’m actively exploring core CS subjects like data structures, operating systems, and computer networks while also building real-world projects to strengthen my development skills.
+I'm a third-year Computer Science & Engineering student at ITM SLS Baroda, deeply interested in AI and machine learning. I’m actively exploring core CS subjects like data structures, operating systems, and computer networks while also building real-world projects to strengthen my development skills.
 
 ---
 
