@@ -34,6 +34,5 @@ I'm a third-year Computer Science & Engineering student at ITM SLS Baroda, deepl
 - [**Laravel Medicine E-commerce**](https://github.com/Dvij-Joshi/laravel-medicine-ecommerce): Medicine e-commerce site built using Laravel.  
 - [**Skyway Airlines Bootstrap**](https://github.com/Dvij-Joshi/skyway-airlines-bootstrap): Airline website design built using Bootstrap and HTML.  
 - [**Event Manager Bootstrap**](https://github.com/Dvij-Joshi/Event-Manager-Bootstrap): Event management web layout created with Bootstrap.  
-- [**Airline Bootstrap**](https://github.com/Dvij-Joshi/Airline-bootstrap): PHP-based front-end airline project with Bootstrap.  
 
 ---
