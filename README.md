@@ -37,8 +37,3 @@ I'm a third-year Computer Science & Engineering student at ITM SLS Baroda, deepl
 - [**Airline Bootstrap**](https://github.com/Dvij-Joshi/Airline-bootstrap): PHP-based front-end airline project with Bootstrap.  
 
 ---
-
-## Stats
-
-![Dvij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dvij-Joshi&show_icons=true&theme=default)
-![Profile Views](https://komarev.com/ghpvc/?username=Dvij-Joshi&label=Profile%20views&color=0e75b6&style=flat)
