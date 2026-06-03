@@ -129,9 +129,9 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dvij-Joshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dvij-Joshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvij-Joshi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dvij-Joshi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br/><br/>
 
