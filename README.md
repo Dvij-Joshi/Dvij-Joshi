@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Dvij--Joshi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dvij-Joshi)
 [![Email](https://img.shields.io/badge/Email-contactdvij@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contactdvij@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Dvij-Joshi&style=flat-square&color=brightgreen&label=Profile+Views)
+
 </div>
 
 ---
@@ -26,45 +28,66 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🧠 [NeuroCanopy](https://github.com/Dvij-Joshi/NeuroCanopy)
-> AI-powered edtech platform and university management system
-
-A full-stack platform built around focus, studying, and academic productivity. Features a Voice Viva Assessment pipeline, an AI-driven Quantum Scheduler, a Syllabus Parser (PDF → AI → database), and an interactive Knowledge Tree visualized in D3.js.
-
-**Stack:** React.js · TypeScript · Node.js · Express · Supabase (PostgreSQL + RLS) · Groq API (LLaMA 3.3 70B) · Azure Speech SDK · Vercel · Azure App Service
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 NeuroCanopy</h3>
+      <p><em>AI-powered edtech platform & university management system</em></p>
+      <ul>
+        <li>🎙️ <strong>Voice Viva Assessment</strong> pipeline with Azure Speech SDK</li>
+        <li>📅 <strong>Quantum Scheduler</strong> — AI-driven timetable optimizer</li>
+        <li>📄 <strong>Syllabus Parser</strong> — PDF → LLM → structured database</li>
+        <li>🌳 <strong>Knowledge Tree</strong> visualized in D3.js</li>
+      </ul>
+      <p><strong>Stack:</strong> <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Supabase</code> <code>Groq API</code> <code>Azure</code></p>
+      <a href="https://github.com/Dvij-Joshi/NeuroCanopy">📂 View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 ExamForge</h3>
+      <p><em>Multi-role exam management system</em></p>
+      <ul>
+        <li>👥 <strong>Role-based access</strong> — Super Admin, Teacher, Student</li>
+        <li>🔒 <strong>Proctoring Mode</strong> for secure exam delivery</li>
+        <li>📚 <strong>Practice Mode</strong> with session analytics</li>
+        <li>⚙️ Built for real academic deployment</li>
+      </ul>
+      <p><strong>Stack:</strong> <code>Laravel</code> <code>MySQL</code> <code>PHP</code> <code>Blade</code></p>
+      <a href="https://github.com/Dvij-Joshi">📂 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 Twig &nbsp;<a href="https://twig-tau.vercel.app"><img src="https://img.shields.io/badge/LIVE-brightgreen?style=flat-square" /></a></h3>
+      <p><em>A clean, modern Git desktop client</em></p>
+      <ul>
+        <li>🖥️ <strong>Desktop-grade</strong> Git experience in the browser</li>
+        <li>⚡ Fast, minimal, focused on usability</li>
+        <li>📦 Live and available to download</li>
+        <li>🔒 Proprietary — not open source</li>
+      </ul>
+      <p><strong>Stack:</strong> <code>Web</code> <code>Vercel</code></p>
+      <a href="https://twig-tau.vercel.app">🔗 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ Eye Control — Android</h3>
+      <p><em>Hands-free phone control via facial gestures</em></p>
+      <ul>
+        <li>👃 <strong>Nose tracking</strong> as cursor via MediaPipe Face Mesh</li>
+        <li>😉 <strong>Blink / wink / eyebrow</strong> gestures for actions</li>
+        <li>♿ Built on Android <strong>AccessibilityService API</strong></li>
+        <li>📱 Designed for motor-impaired users</li>
+      </ul>
+      <p><strong>Stack:</strong> <code>Android</code> <code>Kotlin</code> <code>MediaPipe</code> <code>AccessibilityService</code></p>
+      <a href="https://github.com/Dvij-Joshi">📂 View Repo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📝 [ExamForge](https://github.com/Dvij-Joshi)
-> Multi-role exam management system with AI-assisted features
-
-A Laravel/MySQL platform with Super Admin, Teacher, and Student roles. Supports Proctoring Mode and Practice Mode. Built for real academic use — not just a CRUD app.
-
-**Stack:** Laravel · MySQL · PHP · Blade Templates
-
----
-
-### 🌿 [Twig](https://twig-tau.vercel.app)
-> A clean, modern Git desktop client — live and available to download
-
-A desktop Git client focused on simplicity and usability. Not open source, but live — try it at the link.
-
-**Stack:** Web · Vercel
-
----
-
-### 👁️ Eye Control — Android Accessibility App
-> Hands-free phone control using facial gestures
-
-Uses MediaPipe Face Mesh + Android AccessibilityService to let users control their phones without touching the screen. Nose tracking moves the cursor; blink, wink, and eyebrow gestures trigger actions.
-
-**Stack:** Android · MediaPipe · Kotlin · AccessibilityService API
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -102,25 +125,41 @@ Uses MediaPipe Face Mesh + Android AccessibilityService to let users control the
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Dvij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dvij-Joshi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Dvij-Joshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvij-Joshi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvij-Joshi&layout=compact&theme=default&hide_border=true)
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dvij-Joshi&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 ---
 
-## Currently Leveling Up
+## 🟨 LeetCode Progress
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Dvij-Joshi?theme=light&font=Nunito&ext=heatmap)](https://leetcode.com/Dvij-Joshi)
+
+</div>
+
+> 💡 Actively practicing DSA daily — building problem-solving fundamentals from the ground up.
+
+---
+
+## 📈 Currently Leveling Up
 
 | Area | What I'm Working On |
 |------|---------------------|
 | 🤖 Applied AI | LLM tool-calling, voice pipelines, AI in production systems |
 | 🏗️ System Design | Scalable backend architecture, database performance |
-| ⚡ DSA | Daily LeetCode practice — building problem-solving fundamentals |
+| ⚡ DSA | Daily LeetCode practice — building independent problem-solving skills |
 | 📱 Mobile | Android accessibility + Flutter cross-platform apps |
 | ☁️ Cloud | Azure deployments, serverless functions, CI/CD pipelines |
 
