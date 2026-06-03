@@ -21,73 +21,73 @@ I'm a final-year Computer Science Engineering student at **ITM SLS Baroda Univer
 
 I build things that are actually useful: AI-powered platforms, developer tools, accessibility apps. My stack leans full-stack (React, Node.js, Supabase) with a strong interest in applied AI and system design.
 
-- 🎓 B.Tech CSE, Final Year — ITM SLS Baroda University
-- 🔭 Currently building: **NeuroCanopy** — an AI-powered edtech + university management platform
-- 💼 Open to internships in Full Stack / AI / Backend roles
-- 🌐 Portfolio: [dvij.in](https://dvij.in)
+- B.Tech CSE, Final Year — ITM SLS Baroda University
+- Currently building: **NeuroCanopy** — an AI-powered edtech + university management platform
+- Open to internships in Full Stack / AI / Backend roles
+- Portfolio: [dvij.in](https://dvij.in)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 NeuroCanopy</h3>
+      <h3>NeuroCanopy</h3>
       <p><em>AI-powered edtech platform & university management system</em></p>
       <ul>
-        <li>🎙️ <strong>Voice Viva Assessment</strong> pipeline with Azure Speech SDK</li>
-        <li>📅 <strong>Quantum Scheduler</strong> — AI-driven timetable optimizer</li>
-        <li>📄 <strong>Syllabus Parser</strong> — PDF → LLM → structured database</li>
-        <li>🌳 <strong>Knowledge Tree</strong> visualized in D3.js</li>
+        <li><strong>Voice Viva Assessment</strong> pipeline with Azure Speech SDK</li>
+        <li><strong>Quantum Scheduler</strong> — AI-driven timetable optimizer</li>
+        <li><strong>Syllabus Parser</strong> — PDF → LLM → structured database</li>
+        <li><strong>Knowledge Tree</strong> visualized in D3.js</li>
       </ul>
       <p><strong>Stack:</strong> <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Supabase</code> <code>Groq API</code> <code>Azure</code></p>
-      <a href="https://github.com/Dvij-Joshi/NeuroCanopy">📂 View Repo</a>
+      <a href="https://github.com/Dvij-Joshi/NeuroCanopy">View Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📝 ExamForge</h3>
+      <h3>ExamForge</h3>
       <p><em>Multi-role exam management system</em></p>
       <ul>
-        <li>👥 <strong>Role-based access</strong> — Super Admin, Teacher, Student</li>
-        <li>🔒 <strong>Proctoring Mode</strong> for secure exam delivery</li>
-        <li>📚 <strong>Practice Mode</strong> with session analytics</li>
-        <li>⚙️ Built for real academic deployment</li>
+        <li><strong>Role-based access</strong> — Super Admin, Teacher, Student</li>
+        <li><strong>Proctoring Mode</strong> for secure exam delivery</li>
+        <li><strong>Practice Mode</strong> with session analytics</li>
+        <li>Built for real academic deployment</li>
       </ul>
       <p><strong>Stack:</strong> <code>Laravel</code> <code>MySQL</code> <code>PHP</code> <code>Blade</code></p>
-      <a href="https://github.com/Dvij-Joshi">📂 View Repo</a>
+      <a href="https://github.com/Dvij-Joshi">View Repo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌿 Twig &nbsp;<a href="https://twig-tau.vercel.app"><img src="https://img.shields.io/badge/LIVE-brightgreen?style=flat-square" /></a></h3>
+      <h3>Twig <a href="https://twig-tau.vercel.app"><img src="https://img.shields.io/badge/LIVE-brightgreen?style=flat-square" /></a></h3>
       <p><em>A clean, modern Git desktop client</em></p>
       <ul>
-        <li>🖥️ <strong>Desktop-grade</strong> Git experience in the browser</li>
-        <li>⚡ Fast, minimal, focused on usability</li>
-        <li>📦 Live and available to download</li>
-        <li>🔒 Proprietary — not open source</li>
+        <li><strong>Desktop-grade</strong> Git experience in the browser</li>
+        <li>Fast, minimal, focused on usability</li>
+        <li>Live and available to download</li>
+        <li>Proprietary — not open source</li>
       </ul>
       <p><strong>Stack:</strong> <code>Web</code> <code>Vercel</code></p>
-      <a href="https://twig-tau.vercel.app">🔗 Live Demo</a>
+      <a href="https://twig-tau.vercel.app">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>👁️ Eye Control — Android</h3>
+      <h3>Eye Control — Android</h3>
       <p><em>Hands-free phone control via facial gestures</em></p>
       <ul>
-        <li>👃 <strong>Nose tracking</strong> as cursor via MediaPipe Face Mesh</li>
-        <li>😉 <strong>Blink / wink / eyebrow</strong> gestures for actions</li>
-        <li>♿ Built on Android <strong>AccessibilityService API</strong></li>
-        <li>📱 Designed for motor-impaired users</li>
+        <li><strong>Nose tracking</strong> as cursor via MediaPipe Face Mesh</li>
+        <li><strong>Blink / wink / eyebrow</strong> gestures for actions</li>
+        <li>Built on Android <strong>AccessibilityService API</strong></li>
+        <li>Designed for motor-impaired users</li>
       </ul>
       <p><strong>Stack:</strong> <code>Android</code> <code>Kotlin</code> <code>MediaPipe</code> <code>AccessibilityService</code></p>
-      <a href="https://github.com/Dvij-Joshi">📂 View Repo</a>
+      <a href="https://github.com/Dvij-Joshi">View Repo</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -125,7 +125,7 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -139,7 +139,7 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 </div>
 
-## 🟨 LeetCode Progress
+## LeetCode Progress
 
 <div align="center">
 
@@ -147,19 +147,19 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 </div>
 
-> 💡 Actively practicing DSA daily — building problem-solving fundamentals from the ground up.
+> Actively practicing DSA daily — building problem-solving fundamentals from the ground up.
 
 ---
 
-## 📈 Currently Leveling Up
+## Currently Leveling Up
 
 | Area | What I'm Working On |
 |------|---------------------|
-| 🤖 Applied AI | LLM tool-calling, voice pipelines, AI in production systems |
-| 🏗️ System Design | Scalable backend architecture, database performance |
-| ⚡ DSA | Daily LeetCode practice — building independent problem-solving skills |
-| 📱 Mobile | Android accessibility + Flutter cross-platform apps |
-| ☁️ Cloud | Azure deployments, serverless functions, CI/CD pipelines |
+| Applied AI | LLM tool-calling, voice pipelines, AI in production systems |
+| System Design | Scalable backend architecture, database performance |
+| DSA | Daily LeetCode practice — building independent problem-solving skills |
+| Mobile | Android accessibility + Flutter cross-platform apps |
+| Cloud | Azure deployments, serverless functions, CI/CD pipelines |
 
 ---
 
@@ -167,7 +167,7 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 If you're building something interesting or have an internship opportunity in Full Stack, AI, or Backend — I'd love to hear from you.
 
-📬 [contactdvij@gmail.com](mailto:contactdvij@gmail.com) · 🌐 [dvij.in](https://dvij.in) · 💼 [LinkedIn](https://www.linkedin.com/in/dvijjoshi)
+[contactdvij@gmail.com](mailto:contactdvij@gmail.com) · [dvij.in](https://dvij.in) · [LinkedIn](https://www.linkedin.com/in/dvijjoshi)
 
 ---
 
