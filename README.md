@@ -1,64 +1,139 @@
-<h1 align="center">Hi there, I'm Dvij Joshi 👋</h1>
+<div align="center">
 
-<h3 align="center">Software Developer | CS & Engineering Student | Building Intuitive Tools</h3>
+# Dvij Joshi
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=399D92&center=true&vCenter=true&width=600&lines=Computer+Science+%40+ITM+SLS+Baroda;Passionate+about+AI+%26+Machine+Learning;Building+Enterprise-grade+Tools;Full-Stack+Web+Development" alt="Typing SVG" />
-</p>
+**Builder. CSE Student. AI & Full Stack. Turning ideas into real products.**
 
-I'm a Fourth-year Computer Science & Engineering student at **ITM SLS Baroda**, with a deep passion for building robust software, exploring AI/ML, and crafting seamless developer experiences. I actively explore core CS subjects—like data structures, operating systems, and computer networks—while bridging the gap between theory and real-world applications through impactful projects.
+[![Portfolio](https://img.shields.io/badge/Portfolio-dvij.in-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://dvij.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dvijjoshi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvijjoshi)
+[![GitHub](https://img.shields.io/badge/GitHub-Dvij--Joshi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dvij-Joshi)
+[![Email](https://img.shields.io/badge/Email-contactdvij@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contactdvij@gmail.com)
 
----
-
-## 🚀 Featured Project
-
-### [**Twig**](https://github.com/Dvij-Joshi/Twig)
-*An enterprise-grade visual Git client for Windows, built for professional developers.*
-- **Tech Stack:** Electron, React, Node.js, Express, MongoDB.
-- **Highlights:** Features a clean, distraction-free interface, real-time repository analytics, seamless branch management, and a dedicated admin dashboard for ecosystem tracking. Built from the ground up to make Git visually intuitive without sacrificing power.
+</div>
 
 ---
 
-## 🛠️ Other Recent Work
+## About Me
 
-- [**AuroraWeb**](https://github.com/Dvij-Joshi/AuroraWeb): An AI-powered chatbot built with Ollama, Flask, and FastAPI. Features chat history, local inference, and a sleek web UI.  
-- [**Laravel Medicine E-commerce**](https://github.com/Dvij-Joshi/laravel-medicine-ecommerce): A full-featured medicine e-commerce site built using Laravel.  
-- [**Skyway Airlines Bootstrap**](https://github.com/Dvij-Joshi/skyway-airlines-bootstrap): Responsive airline website design built using Bootstrap and HTML.  
+I'm a final-year Computer Science Engineering student at **ITM SLS Baroda University**, with a background in both diploma and degree-level CS — about seven years in the field so far.
 
----
+I build things that are actually useful: AI-powered platforms, developer tools, accessibility apps. My stack leans full-stack (React, Node.js, Supabase) with a strong interest in applied AI and system design.
 
-## 💻 Skills & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- 🎓 B.Tech CSE, Final Year — ITM SLS Baroda University
+- 🔭 Currently building: **NeuroCanopy** — an AI-powered edtech + university management platform
+- 💼 Open to internships in Full Stack / AI / Backend roles
+- 🌐 Portfolio: [dvij.in](https://dvij.in)
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dvij-Joshi&show_icons=true&theme=transparent&hide_border=true&title_color=399D92&icon_color=399D92&text_color=1C1C1C" alt="Dvij's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvij-Joshi&layout=compact&theme=transparent&hide_border=true&title_color=399D92&text_color=1C1C1C" alt="Top Languages" />
-</p>
+### 🧠 [NeuroCanopy](https://github.com/Dvij-Joshi/NeuroCanopy)
+> AI-powered edtech platform and university management system
+
+A full-stack platform built around focus, studying, and academic productivity. Features a Voice Viva Assessment pipeline, an AI-driven Quantum Scheduler, a Syllabus Parser (PDF → AI → database), and an interactive Knowledge Tree visualized in D3.js.
+
+**Stack:** React.js · TypeScript · Node.js · Express · Supabase (PostgreSQL + RLS) · Groq API (LLaMA 3.3 70B) · Azure Speech SDK · Vercel · Azure App Service
 
 ---
 
-## 📫 Connect with Me
+### 📝 [ExamForge](https://github.com/Dvij-Joshi)
+> Multi-role exam management system with AI-assisted features
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dvijjoshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dvijpjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Dvij-Joshi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+A Laravel/MySQL platform with Super Admin, Teacher, and Student roles. Supports Proctoring Mode and Practice Mode. Built for real academic use — not just a CRUD app.
+
+**Stack:** Laravel · MySQL · PHP · Blade Templates
+
+---
+
+### 🌿 [Twig](https://twig-tau.vercel.app)
+> A clean, modern Git desktop client — live and available to download
+
+A desktop Git client focused on simplicity and usability. Not open source, but live — try it at the link.
+
+**Stack:** Web · Vercel
+
+---
+
+### 👁️ Eye Control — Android Accessibility App
+> Hands-free phone control using facial gestures
+
+Uses MediaPipe Face Mesh + Android AccessibilityService to let users control their phones without touching the screen. Nose tracking moves the cursor; blink, wink, and eyebrow gestures trigger actions.
+
+**Stack:** Android · MediaPipe · Kotlin · AccessibilityService API
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=black)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & Tools**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Dvij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dvij-Joshi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvij-Joshi&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Currently Leveling Up
+
+| Area | What I'm Working On |
+|------|---------------------|
+| 🤖 Applied AI | LLM tool-calling, voice pipelines, AI in production systems |
+| 🏗️ System Design | Scalable backend architecture, database performance |
+| ⚡ DSA | Daily LeetCode practice — building problem-solving fundamentals |
+| 📱 Mobile | Android accessibility + Flutter cross-platform apps |
+| ☁️ Cloud | Azure deployments, serverless functions, CI/CD pipelines |
+
+---
+
+## Let's Connect
+
+If you're building something interesting or have an internship opportunity in Full Stack, AI, or Backend — I'd love to hear from you.
+
+📬 [contactdvij@gmail.com](mailto:contactdvij@gmail.com) · 🌐 [dvij.in](https://dvij.in) · 💼 [LinkedIn](https://www.linkedin.com/in/dvijjoshi)
+
+---
+
+<div align="center">
+<sub>Built with curiosity. Deployed with coffee.</sub>
+</div>
