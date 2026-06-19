@@ -135,10 +135,9 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Dvij-Joshi&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dvij-Joshi&theme=tokyo-night&hide_border=true" />
 
 </div>
-
 ## LeetCode Progress
 
 <div align="center">
