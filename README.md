@@ -127,6 +127,8 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dvij-Joshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
@@ -135,7 +137,7 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dvij-Joshi&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dvij-Joshi&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 ## LeetCode Progress
