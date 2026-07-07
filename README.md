@@ -1,22 +1,9 @@
 <!-- Header Banner -->
 <div align="center">
 
-```
-██████╗ ██╗   ██╗██╗     ██╗     
-██╔══██╗██║   ██║██║     ██║     
-██║  ██║██║   ██║██║     ██║     
-██║  ██║╚██╗ ██╔╝██║██   ██║     
-██████╔╝ ╚████╔╝ ██║╚█████╔╝     
-╚═════╝   ╚═══╝  ╚═╝ ╚════╝      
-     ██╗ ██████╗ ███████╗██╗  ██╗██╗
-     ██║██╔═══██╗██╔════╝██║  ██║██║
-     ██║██║   ██║███████╗███████║██║
-██   ██║██║   ██║╚════██║██╔══██║██║
-╚█████╔╝╚██████╔╝███████║██║  ██║██║
- ╚════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0d2a2a,100:0A0A0A&height=200&section=header&text=DVIJ%20JOSHI&fontSize=72&fontColor=00FFCC&fontAlignY=55&desc=Full-Stack%20%7C%20Android%20%7C%20AI%20Builder&descSize=18&descAlignY=78&descColor=F5A623&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+%7C+Android+%7C+AI+Builder;I+don't+just+learn+tools+—+I+ship+products.;Twig+%7C+NeuroCanopy+%7C+GrammarLens+%7C+...;B.Tech+CSE+%40+ITM+SLS+Baroda+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=I+don%27t+just+learn+tools+%E2%80%94+I+ship+products.;Twig+%7C+NeuroCanopy+%7C+GrammarLens+%7C+...;B.Tech+CSE+%40+ITM+SLS+Baroda+University;Open+to+SDE+roles+%26+collabs+%F0%9F%9F%A2" alt="Typing SVG" />
 
 <br/>
 
