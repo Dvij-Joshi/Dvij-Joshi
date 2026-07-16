@@ -1,18 +1,19 @@
-<!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0d2a2a,100:0A0A0A&height=200&section=header&text=DVIJ%20JOSHI&fontSize=72&fontColor=00FFCC&fontAlignY=55&desc=Full-Stack%20%7C%20Android%20%7C%20AI%20Builder&descSize=18&descAlignY=78&descColor=F5A623&animation=fadeIn" width="100%"/>
+# Dvij Joshi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=I+don%27t+just+learn+tools+%E2%80%94+I+ship+products.;Twig+%7C+NeuroCanopy+%7C+GrammarLens+%7C+...;B.Tech+CSE+%40+ITM+SLS+Baroda+University;Open+to+SDE+roles+%26+collabs+%F0%9F%9F%A2" alt="Typing SVG" />
+**Builder. CSE Student. AI & Full Stack. Turning ideas into real products.**
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-dvij.in-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://dvij.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dvijjoshi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvijjoshi)
+[![GitHub](https://img.shields.io/badge/GitHub-Dvij--Joshi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dvij-Joshi)
+[![Email](https://img.shields.io/badge/Email-contactdvij@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contactdvij@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/dvij.in-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FFCC)](https://dvij.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://linkedin.com/in/dvijjoshi)
-[![Gmail](https://img.shields.io/badge/contactdvij@gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F5A623)](mailto:contactdvij@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=F5A623)](https://leetcode.com/u/dvij-joshi/)
+![Profile Views](https://komarev.com/ghpvc/?username=Dvij-Joshi&style=flat-square&color=brightgreen&label=Profile+Views)
 
 </div>
+
+---
 
 ## About Me
 
@@ -138,6 +139,7 @@ I build things that are actually useful: AI-powered platforms, developer tools, 
 
 <br/><br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dvij-Joshi&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Dvij-Joshi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
 
 </div>
